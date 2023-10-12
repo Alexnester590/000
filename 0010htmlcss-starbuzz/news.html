@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <title>Добавление новости</title>
+  <meta charset='utf-8'>
+</head>
+<body>
+<header class="top">
+      <img id="headerLogo"
+           src="images/headerLogo.gif" alt="Starbuzz Coffee header logo image">
+      <img id="headerSlogan"
+          src="images/headerSlogan.gif" alt="Providing all the caffeine you need to power your life.">
+</header>
+  <table>
+  <form action='addnews.php' method='POST'>
+    <tr>
+      <td>Название:</td>
+      <td><input type='text' name='name'></td>
+    </tr>
+    <tr>
+      <td>Содержимое:</td>
+      <td><textarea name='content' rows='10' cols='40'></textarea></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><input type='submit' value='Добавить'></td>
+    </tr>
+  </form>
+  </table>
+</body>
+</html>

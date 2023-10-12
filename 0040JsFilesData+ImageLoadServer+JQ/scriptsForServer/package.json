@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "gm": "^1.25.0",
+    "parse-image": "*",
+    "request-promise": "*"
+    
+
+  }
+}

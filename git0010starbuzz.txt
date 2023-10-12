@@ -1,0 +1,227 @@
+
+
+Включить агента ssh 
+
+eval "$(ssh-agent -s)"ssh-add ~/.ssh/123
+
+
+Ввести парольную фразу
+awsEDRftg-1506
+
+git add index.html git commit -am '1'
+
+git init
+git add README01.md
+git commit -m "Добавление фаила README.md со строкой hello61"
+git branch -M main
+git push -u main
+
+git init
+git add README.md
+git commit -m "Добавление фаила README.md со строкой hello61"
+git remote add origin git@github.com:Alexnester590/ProstoySyteForWorkDns.git
+git branch -M main
+git push -u origin main
+
+git add .
+git commit -am 'Добавление папки 0020JsFunctionHello+JQForGit и изменение index.html ' 
+
+git pull origin main
+git commit -am "Posting change in Local "
+
+git push -u origin main
+git commit -am "Posting change in Net "
+
+git clone git@github.com:Alexnester590/ProstoySyteForWorkDns.git 0010Starbuzz2
+
+cd 0010Starbuzz
+
+
+Ввести в гитбаш команду
+
+git init
+git add .
+git commit -am 'Добавление папки 0020JsFunctionHello+JQForGit и изменение index.html ' 
+
+git add .
+git commit -am 'Перенос папки scriptsJquery в основной каталог ' 
+
+git add README.md
+git commit -m "first commit"
+git push -u origin main
+
+
+git push -u origin main
+git commit -am "Posting change in Net "
+
+git add .
+git commit -am 'изменение index.html '
+
+git add .
+git commit -am 'Добавление прокта 0040JsFilesData+ImageLoadServer4444+JQ и изменение index.html '
+
+git add .
+git commit -am 'Добавление прокта 0050JsImageappend+cropGMServer4444 и изменение index.html(Js)'
+
+git add .
+git commit -am 'Добавление прокта 0040Jquery2011508WorkForGit и изменение index.html'
+
+git add .
+git commit -am 'Add in Project 0040Jquery2011508WorkForNet two Lessons and change index.html'
+
+git add .
+git commit -am 'Add in Project 0040Jquery2011508WorkForNet Three Lessons 4 5 6 and change index.html'
+
+git add .
+git commit -am 'Add in Project 0040Jquery2011508WorkForNet Three Lessons 7 8 9 and change index.html'
+
+git add .
+git commit -am 'Add in Project 0040Jquery2011508WorkForNet Three Lessons 8'
+
+Иммитируем командную работу перейдем на одну папку в верх
+
+cd /p/1Mydoc/00domains/0001htmlcss-starbuzz-all
+
+клонируем репозиторий ProstoySyteForWorkDns в 0010Starbuzz2
+
+git clone git@github.com:Alexnester590/ProstoySyteForWorkDns.git 0010Starbuzz2
+
+Перейдем в 0010Starbuzz2
+
+cd 0010Starbuzz2
+
+Add in Project 0040Jquery2011508WorkForNet in 0010Starbuzz2 Two Lessons 10 11 and change 0040Jquery2011508WorkForNet.html
+
+git pull origin main
+git commit -am "Add in Project 0040Jquery2011508WorkForNet 
+from 0010Starbuzz2 Two Lessons 10 11 and change 0040Jquery2011508WorkForNet.html в основную локальную ветку "
+
+
+перейдем в папку 0010Starbuzz
+ 
+cd /p/1Mydoc/00domains/0001htmlcss-starbuzz-all/0010Starbuzz
+
+Добавим в 0010Starbuzz фаил phpinfoForGit.php
+
+echo '<?php phpinfoForGit3()";' >> phpinfoForGit3.php
+git add .
+git commit -am "Добавление phpinfo-отчета для испытаия Git3"
+git push -u origin main
+
+phpinfoForGit.php Загружен в основную локальную ветку 0010Starbuzz но при этом идет ошибка что у нас 
+не загружены изменения из локальной папки 0010Starbuzz2 в основную локальную ветку 0010Starbuzz
+
+Следующей командой мы загружаем фаил indexForGit.php из 0010Starbuzz2 в 0010Starbuzz
+
+git pull origin main
+git commit -am "Добавление indexForGit3.php фаила в основную локальную ветку "
+Добавились так же папки 10 урок и 11 урок из 0040Jquery2011508WorkForNet from 0010Starbuzz2 in 0010Starbuzz
+ 
+
+При этом все действия происходят локально ни phpinfoForGit.php ни indexForGit.php в репозитории 
+Alexnester590/0010Starbuzz.git пока нет
+
+И последней командой мы отправляем phpinfoForGit.php и indexForGit.php в репозитории 
+Alexnester590/ProstoySyteForWorkDns.git
+
+git push -u origin main
+git commit -am "Добавление phpinfoForGit.php  и indexForGit.php фаила в репозиторий ProstoySyteForWorkDns.git"
+
+
+
+
+
+
+
+
+echo "# hello61" >> README.md
+git init
+git add README.md
+git commit -m "Добавление фаила README.md со строкой hello61"
+git remote add origin git@github.com:Alexnester590/ProstoySyteForWorkDns.git
+git branch -M main
+git push -u origin main
+
+Иммитируем командную работу перейдем на одну папку в верх
+
+cd /p/1Mydoc/00domains/0003GitExperement
+
+клонируем репозиторий 0010Starbuzz в 0010Starbuzz2
+
+git clone git@github.com:Alexnester590/0010Starbuzz.git 0010Starbuzz2
+
+Перейдем в 0010Starbuzz2
+
+cd 0010Starbuzz2
+
+Создадим там Индексный файл проекта
+
+echo '<?php echo "Hello world3!";' >> indexForGit3.php
+git add indexForGit3.php
+git commit -am "Индексный файл проекта3"
+git push -u origin main
+
+В репозитории 0010Starbuzz2 смотреть фаил index.php со строкой <?php echo "Hello world!";'
+
+перейдем в папку 0010Starbuzz
+ 
+cd /p/1Mydoc/00domains/0003GitExperement/0010Starbuzz
+
+Добавим в 0010Starbuzz фаил phpinfoForGit.php
+
+echo '<?php phpinfoForGit2()";' >> phpinfoForGit2.php
+git add .
+git commit -am "Добавление phpinfo-отчета для испытаия Git2"
+git push -u origin main
+
+phpinfoForGit.php Загружен в основную локальную ветку 0010Starbuzz но 
+
+при этом идет ошибка что у нас не загружен фаил indexForGit.php из локальной папки 0010Starbuzz2
+в основную локальную ветку 0010Starbuzz
+ 
+Следующей командой мы загружаем фаил indexForGit.php из 0010Starbuzz2 в 0010Starbuzz
+
+git pull origin main
+git commit -am "Добавление indexForGit.php фаила в основную локальную ветку "
+
+При этом все действия происходят локально ни phpinfoForGit.php ни indexForGit.php в репозитории 
+Alexnester590/0010Starbuzz.git пока нет
+
+И последней командой мы отправляем phpinfoForGit.php и indexForGit.php в репозитории 
+Alexnester590/0010Starbuzz.git
+
+git push -u origin main
+git commit -am "Добавление phpinfoForGit.php  и indexForGit.php фаила в репозиторий 0010Starbuzz.git "
+
+
+
+git init
+git add .
+git add index.php
+mkdir 5
+git add 5
+git commit -am 'Инициализация git-репозитория'
+git commit -am "Новый файл blog.txt" yellow
+git clone https://github.com/phpmyadmin/phpmyadmin.git (mysql.dev)
+git status
+git diff
+git commit -m "Изменения в README-файле"
+git log -n 3 История изменений
+touch blog.php
+git add . green
+git reset 7a2b16dc
+git reset --mixed
+git reset --soft
+git reset --hard
+git reset HEAD file.txt
+git clean -f - removing file.txt
+git checkout -f
+git commit -am "Новый файл blog.txt" yellow
+git branch
+git branch blog
+git checkout blog
+git checkout -b blog
+git merge blog
+git log --graph
+git branch -D blog
+
